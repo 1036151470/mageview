@@ -1,0 +1,17 @@
+body { padding-top: 0px; }
+
+html {
+    background: url(/bamboo.jpg) left top repeat;
+}
+
+body {
+    background: url(/bamboo.jpg) left top repeat;
+}
+/*#navbar{*/
+    /*background-color: #ccc;;*/
+    /*left: 0;*/
+    /*position: fixed;*/
+    /*top: 0;*/
+    /*width: 100%;*/
+    /*z-index: 1000;*/
+/*}*/
